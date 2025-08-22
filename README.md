@@ -1,5 +1,5 @@
 ## Hi there 👋
-Myself Tanidh gupta . I am currently pursuing my btech in computer science at tiet . I am currently learning C language and continously upgrading my skills
+Myself Tanish gupta . I am currently pursuing my btech in computer science at tiet . I am currently learning C language and continously upgrading my skills
 
 <!--
 **tanishofficial/tanishofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
